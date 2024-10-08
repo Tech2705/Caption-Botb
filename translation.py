@@ -6,7 +6,7 @@ __I Am Auto Caption Bot__
 
 __I can automatically remove or add caption to the files posted in the channels.__
 
-**Maintained by __@{}__**
+**Maintained by __@triggeredsoul_07ded{}__**
 """
 
     HELP_TEXT = """
@@ -27,12 +27,13 @@ __I can automatically remove or add caption to the files posted in the channels.
     ABOUT_TEXT = """
 **About Me**
 
-__My Name: AutoCaptionBot
+__My Name: A2ZCaptionBot
 Language : Python 
 Framework : Pyrogram
 Server : Heroku
 Version : 2.0.1
 Creator :  @shubham_indalkar__
+Maintainer :  @triggeredsoul_07ded
  
 """
 
